@@ -1,4 +1,9 @@
-package PACKAGE_NAME;
+public class Shark extends Animal {
 
-public class Shark {
+    public void attack(){
+        System.out.println("attack");
+
+    }
+
+
 }

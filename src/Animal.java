@@ -1,4 +1,9 @@
-package PACKAGE_NAME;
-
 public class Animal {
+
+     public void  domas(){
+         System.out.println("domas");
+
+
+    }
+
 }

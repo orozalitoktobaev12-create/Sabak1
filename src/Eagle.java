@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
+public class Eagle extends Animal {
+    public void fly(){
+        System.out.println("fly");
 
-public class Eagle {
+    }
 }
